@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="no_data_available">No data available</string>
+    <string name="next">Next</string>
+    <string name="check">Check</string>
+    <string name="palindrom">Palindrom</string>
+    <string name="name">Name</string>
+</resources>
